@@ -1,0 +1,89 @@
+%BUDE SEQUENCE FILE
+%VERSION  3.00
+# Remember that the 2 previous lines are required,
+# any other lines starting with # are comments
+# The sequence is defined by a list of residues one per line and separated
+# by space if it is active or not (true or false)
+#
+# The sequence should be exactly the same as in the corresponding PDB file
+# %VERSION 3.00: Will allow comments at any position within the file.
+# Any part of a line after a '#' character will considered a comment.
+# It will also ignore blank lines.
+#
+# %VERSION 3.00: The tag END will denote the end of the library. No further
+# lines will be considered. The line containing the END tag can only have the
+# tag and blank characters or a comment.
+#
+# If the END tag is omitted the file will be process till the EOF and a warning
+# will be issued.
+#
+# Residue:	Active
+  ALA            false
+  SER            false
+  VAL            false
+  VAL            false
+  ILE            false
+  ARG            true
+  ASN            false
+  LEU            false
+  SER            false
+  GLU            true
+  ALA            false
+  THR            false
+  HIS            true
+  ASN            false
+  ALA            false
+  ILE            false
+  LYS            true
+  PHE            false
+  ARG            true
+  ALA            false
+  ARG            true
+  ALA            false
+  ALA            false
+  GLY            false
+  ARG            true
+  SER            false
+  THR            false
+  GLU            true
+  ALA            false
+  GLU            true
+  ILE            false
+  ARG            true
+  LEU            false
+  ILE            false
+  LEU            false
+  ASP            true
+  ASN            false
+  ILE            false
+  ALA            false
+  LYS            true
+  ALA            false
+  GLN            false
+  GLN            false
+  THR            false
+  VAL            false
+  ARG            true
+  LEU            false
+  GLY            false
+  SER            false
+  MET            false
+  LEU            false
+  ALA            false
+  SER            false
+  ILE            false
+  GLY            false
+  GLN            false
+  GLU            true
+  ILE            false
+  GLY            false
+  GLY            false
+  VAL            false
+  GLU            true
+  LEU            false
+  GLU            true
+  ASP            true
+  VAL            false
+  ARG            true
+  GLY            false
+END
