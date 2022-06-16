@@ -1,0 +1,55 @@
+ #1.  Error: Missing unit cell information 
+  #2.  Error: Missing symmetry information 
+  #3.  Note: No rounded coordinates detected 
+  #4.  Note: No crystallographic symmetry between molecules 
+  #5.  Note: Valine nomenclature OK 
+  #6.  Note: Threonine nomenclature OK 
+  #7.  Note: Isoleucine nomenclature OK 
+  #8.  Note: Leucine nomenclature OK 
+  #9.  Note: Arginine nomenclature OK 
+  #10.  Warning: Tyrosine convention problem 
+  #11.  Warning: Phenylalanine convention problem 
+  #12.  Warning: Aspartic acid convention problem 
+  #13.  Warning: Glutamic acid convention problem 
+  #14.  Note: L or D conformation checked OK 
+  #15.  Note: Chain names are unique 
+  #16.  Note: Weights checked OK 
+  #17.  Note: No missing atoms detected 
+  #18.  Warning: Unusual bond lengths 
+  #19.  Note: Normal bond length variability 
+  #20.  Warning: Directionality in bond lengths 
+  #21.  Warning: Unusual bond angles 
+  #22.  Note: Normal bond angle variability 
+  #23.  Error: Side chain planarity problems 
+  #24.  Error: Connections to aromatic rings out of plane 
+  #25.  Note: PRO puckering amplitude OK 
+  #26.  Warning: Strange PRO puckering phases 
+  #27.  Warning: Torsion angle evaluation shows unusual residues 
+  #28.  Warning: Backbone torsion angle evaluation shows unusual conformations 
+  #29.  Note: Ramachandran Z-score OK 
+  #30.  Note: Omega angle restraint OK 
+  #31.  Note: chi-1/chi-2 angle correlation Z-score OK 
+  #32.  Note: Ramachandran plot 
+  #33.  Note: Ramachandran plot 
+  #34.  Note: Ramachandran plot 
+  #35.  Note: Ramachandran plot 
+  #36.  Note: Ramachandran plot 
+  #37.  Note: Ramachandran plot 
+  #38.  Note: Ramachandran plot 
+  #39.  Note: Ramachandran plot 
+  #40.  Note: Secondary structure 
+  #41.  Error: Abnormally short interatomic distances 
+  #42.  Warning: Abnormal packing environment for some residues 
+  #43.  Note: No series of residues with bad packing environment 
+  #44.  Note: Structural average packing environment OK 
+  #45.  Note: Backbone oxygen evaluation OK 
+  #46.  Note: Rotamers checked OK 
+  #47.  Warning: Unusual backbone conformations 
+  #48.  Error: Backbone conformation Z-score very low 
+  #49.  Note: Symmetry related water molecules check not performed 
+  #50.  Error: Average B-factor error 
+  #51.  Error: HIS, ASN, GLN side chain flips 
+  #52.  Note: Histidine type assignments 
+  #53.  Warning: Buried unsatisfied hydrogen bond donors 
+  #54.  Warning: Buried unsatisfied hydrogen bond acceptors 
+  #55.  Note: Overall summary report 

@@ -1,0 +1,1 @@
+INSERT INTO `projects` VALUES ('MDWeb629f419e75441','MD1','MD of Neisseria','20220607141635',19415);

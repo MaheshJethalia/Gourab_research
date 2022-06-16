@@ -1,0 +1,61 @@
+Protein atom Name,Atom number,name,res no------RNA atom name,atom number,res name,res number     distance
+OD1   3086 ASP    5 ----- NH2    505 ARG   68        2.971 
+O     3143 LEU   13 ----- N      447 VAL   62        2.828 
+NE    3155 ARG   14 ----- OE1    461 GLU   63        2.883 
+NH2   3158 ARG   14 ----- OE2    462 GLU   63        2.754 
+O     3254 ASP   26 ----- OE1    329 GLN   44        2.904 
+OD1   3257 ASP   26 ----- N      364 GLY   49        2.937 
+OD1   3257 ASP   26 ----- N      368 SER   50        2.662 
+OD2   3258 ASP   26 ----- OG     373 SER   50        2.882 
+OE1   3378 GLU   42 ----- NH1    504 ARG   68        2.747 
+OE2   3379 GLU   42 ----- NH1    504 ARG   68        2.980 
+CE    3475 LYS   55 ----- O      446 GLY   61        2.999 
+NZ    3476 LYS   55 ----- O      446 GLY   61        2.826 
+NE    3535 ARG   62 ----- OE1    429 GLU   58        2.730 
+OD1   3861 ASP  104 ----- NE     502 ARG   68        2.768 
+OD1   3861 ASP  104 ----- NH2    505 ARG   68        2.642 
+Total number of Interactions AE:15 
+Total number of Interactions AF:0 
+Total number of Interactions AG:0 
+Total number of Interactions AH:0 
+Total number of Interactions BE:0 
+O     2067 LEU   13 ----- N      958 VAL   62        2.838 
+NE    2079 ARG   14 ----- OE2    973 GLU   63        2.728 
+OD1   2181 ASP   26 ----- N      875 GLY   49        2.968 
+OD1   2181 ASP   26 ----- N      879 SER   50        2.706 
+NZ    2400 LYS   55 ----- O      945 ILE   59        2.971 
+NZ    2400 LYS   55 ----- O      957 GLY   61        2.879 
+NE    2459 ARG   62 ----- OE1    940 GLU   58        2.737 
+NH2   2462 ARG   62 ----- OE2    941 GLU   58        2.607 
+Total number of Interactions BF:8 
+Total number of Interactions BG:0 
+Total number of Interactions BH:0 
+Total number of Interactions CE:0 
+Total number of Interactions CF:0 
+OD2   4163 ASP    5 ----- NH2   1497 ARG   68        2.678 
+O     4219 LEU   13 ----- N     1439 VAL   62        2.868 
+NE    4231 ARG   14 ----- OE1   1453 GLU   63        2.629 
+NH2   4234 ARG   14 ----- OE2   1454 GLU   63        2.758 
+O     4330 ASP   26 ----- OE1   1321 GLN   44        2.871 
+OD1   4333 ASP   26 ----- N     1360 SER   50        2.667 
+OE1   4454 GLU   42 ----- NE    1494 ARG   68        2.782 
+OE2   4455 GLU   42 ----- NH2   1497 ARG   68        2.950 
+O     4486 GLY   46 ----- OE2   1471 GLU   65        2.967 
+NZ    4552 LYS   55 ----- O     1438 GLY   61        2.733 
+NE    4611 ARG   62 ----- OE1   1421 GLU   58        2.686 
+NE    4611 ARG   62 ----- OE2   1422 GLU   58        2.989 
+NH2   4614 ARG   62 ----- OE2   1422 GLU   58        2.752 
+OD2   4938 ASP  104 ----- NH1   1496 ARG   68        2.854 
+Total number of Interactions CG:14 
+Total number of Interactions CH:0 
+Total number of Interactions DE:0 
+Total number of Interactions DF:0 
+Total number of Interactions DG:0 
+O     5295 LEU   13 ----- N     1946 VAL   62        2.761 
+OD1   5409 ASP   26 ----- N     1863 GLY   49        2.915 
+OD1   5409 ASP   26 ----- N     1867 SER   50        2.700 
+NZ    5628 LYS   55 ----- O     1933 ILE   59        2.769 
+NZ    5628 LYS   55 ----- O     1945 GLY   61        2.649 
+NH2   5690 ARG   62 ----- OE2   1929 GLU   58        2.566 
+Total number of Interactions DH:6 
+Total number of Interactions:43 

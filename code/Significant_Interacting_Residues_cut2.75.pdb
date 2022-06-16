@@ -1,0 +1,34 @@
+Protein atom Name,Atom number,name,res no------RNA atom name,atom number,res name,res number     distance
+OD1   3257 ASP   26 ----- N      368 SER   50        2.662 
+OE1   3378 GLU   42 ----- NH1    504 ARG   68        2.747 
+NE    3535 ARG   62 ----- OE1    429 GLU   58        2.730 
+OD1   3861 ASP  104 ----- NH2    505 ARG   68        2.642 
+Total number of Interactions AE:4 
+Total number of Interactions AF:0 
+Total number of Interactions AG:0 
+Total number of Interactions AH:0 
+Total number of Interactions BE:0 
+NE    2079 ARG   14 ----- OE2    973 GLU   63        2.728 
+OD1   2181 ASP   26 ----- N      879 SER   50        2.706 
+NE    2459 ARG   62 ----- OE1    940 GLU   58        2.737 
+NH2   2462 ARG   62 ----- OE2    941 GLU   58        2.607 
+Total number of Interactions BF:4 
+Total number of Interactions BG:0 
+Total number of Interactions BH:0 
+Total number of Interactions CE:0 
+Total number of Interactions CF:0 
+OD2   4163 ASP    5 ----- NH2   1497 ARG   68        2.678 
+NE    4231 ARG   14 ----- OE1   1453 GLU   63        2.629 
+OD1   4333 ASP   26 ----- N     1360 SER   50        2.667 
+NZ    4552 LYS   55 ----- O     1438 GLY   61        2.733 
+NE    4611 ARG   62 ----- OE1   1421 GLU   58        2.686 
+Total number of Interactions CG:5 
+Total number of Interactions CH:0 
+Total number of Interactions DE:0 
+Total number of Interactions DF:0 
+Total number of Interactions DG:0 
+OD1   5409 ASP   26 ----- N     1867 SER   50        2.700 
+NZ    5628 LYS   55 ----- O     1945 GLY   61        2.649 
+NH2   5690 ARG   62 ----- OE2   1929 GLU   58        2.566 
+Total number of Interactions DH:3 
+Total number of Interactions:16 
